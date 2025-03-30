@@ -1,0 +1,41 @@
+{
+    "FirstName": "Jack",
+    "LastName": "Johnson",
+    "CompanyEmail": "abc@microsoft.com",
+    "CompanyName": "microsoft",
+    "CompanyAddress": "One Microsoft Way",
+    "CompanyCity": "Seattle",
+    "CompanyPostalCode": "98052",
+    "CompanyCountry": "USA",
+    "SubscriptionIdList": [
+        "00000000-0000-0000-0000-000000000000"
+    ],
+    "RegionList": [
+        "Australia East",
+        "Brazil South",
+        "Canada East",
+        "East US",
+        "East US 2",
+        "France Central",
+        "Germany West Central",
+        "Japan East",
+        "Korea Central",
+        "North Central US",
+        "Norway East",
+        "Poland Central",
+        "Spain Central",
+        "South Africa North",
+        "South Central US",
+        "South India",
+        "Sweden Central",
+        "Switzerland North",
+        "UAE North",
+        "UK South",
+        "West Europe",
+        "West US",
+        "West US 3"
+    ],
+    "Deployment": "Global Standard",
+    "Model": "GPT-4o",
+    "AskQuota": "350"
+}

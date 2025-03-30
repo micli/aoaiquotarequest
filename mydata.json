@@ -1,0 +1,22 @@
+{
+    "FirstName": "Jack",
+    "LastName": "Johnson",
+    "CompanyEmail": "abc@microsoft.com",
+    "CompanyName": "microsoft",
+    "CompanyAddress": "One Microsoft Way",
+    "CompanyCity": "Seattle",
+    "CompanyPostalCode": "98052",
+    "CompanyCountry": "USA",
+    "SubscriptionIdList": [
+        "00000000-0000-0000-0000-000000000000"
+    ],
+    "RegionList": [
+        "East US",
+        "East US 2",
+        "West US",
+        "West US 3"
+    ],
+    "Deployment": "Global Standard",
+    "Model": "GPT-4o",
+    "AskQuota": "350"
+}
